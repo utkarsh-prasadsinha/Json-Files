@@ -1,0 +1,84 @@
+{
+  "financial_metrics": {
+    "total_revenue": 84500504.0,
+    "average_transaction_value": 617.0,
+    "transaction_count": 217,
+    "top_products": {
+      "jackdower": 2,
+      "aberdohnny": 2,
+      "johndoe": 1,
+      "goodmanave": 1,
+      "stevebower": 1
+    },
+    "customer_analysis": {
+      "new_customers": 6,
+      "repeat_customers": 0,
+      "geographic_distribution": {
+        "Unknown": 206,
+        "New York": 4,
+        "Colunza": 2,
+        "Esteras": 2,
+        "Esvazark": 1,
+        "Evertin": 1,
+        "Tenting": 1
+      }
+    },
+    "cash_flow": {
+      "total_inflows": 84500504.0,
+      "total_outflows": 0.0,
+      "net_cash_flow": 84500504.0
+    }
+  },
+  "top_products": [
+    {
+      "name": "jackdower",
+      "value": 2
+    },
+    {
+      "name": "aberdohnny",
+      "value": 2
+    },
+    {
+      "name": "johndoe",
+      "value": 1
+    },
+    {
+      "name": "goodmanave",
+      "value": 1
+    },
+    {
+      "name": "stevebower",
+      "value": 1
+    }
+  ],
+  "top_locations": [
+    {
+      "name": "Unknown",
+      "value": 206
+    },
+    {
+      "name": "New York",
+      "value": 4
+    },
+    {
+      "name": "Colunza",
+      "value": 2
+    },
+    {
+      "name": "Esteras",
+      "value": 2
+    },
+    {
+      "name": "Esvazark",
+      "value": 1
+    },
+    {
+      "name": "Evertin",
+      "value": 1
+    },
+    {
+      "name": "Tenting",
+      "value": 1
+    }
+  ]
+}
