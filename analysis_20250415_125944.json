@@ -1,0 +1,42 @@
+{
+  "financial_metrics": {
+    "total_revenue": 84500504.0,
+    "average_transaction_value": 416,
+    "# (84500504 / 217) rounded to nearest integer": "transaction_count",
+    "top_products": {
+      "jackdower": 2,
+      "aberdohnny": 2,
+      "johndoe": 1,
+      "goodmanave": 1,
+      "stevebower": 1
+    },
+    "geographic_distribution": {
+      "Unknown": 206,
+      "New York": 4,
+      "Colunza": 2,
+      "Esteras": 2,
+      "Esvazark": 1,
+      "Evertin": 1,
+      "Tenting": 1
+    },
+    "new_customers": 6
+  },
+  "customer_analysis": {
+    "new_customers": 6,
+    "repeat_customers": 0,
+    "geographic_distribution": {
+      "Unknown": 206,
+      "New York": 4,
+      "Colunza": 2,
+      "Esteras": 2,
+      "Esvazark": 1,
+      "Evertin": 1,
+      "Tenting": 1
+    }
+  },
+  "cash_flow": {
+    "total_inflows": 84500504.0,
+    "total_outflows": 0.0,
+    "net_cash_flow": 84500504.0
+  }
+}
