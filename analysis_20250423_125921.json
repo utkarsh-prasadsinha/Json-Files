@@ -1,0 +1,20 @@
+{
+  "financial_metrics": {
+    "total_revenue": 3940000,
+    "average_transaction_value": 437777.77777777775,
+    "transaction_count": 9,
+    "top_products": {},
+    "customer_analysis": {
+      "new_customers": 0,
+      "repeat_customers": 0,
+      "geographic_distribution": {}
+    },
+    "cash_flow": {
+      "total_inflows": 4060000,
+      "total_outflows": 2650000,
+      "net_cash_flow": 1410000
+    }
+  },
+  "top_products": [],
+  "top_locations": []
+}
